@@ -1,3 +1,3 @@
 # hangman
 
-HangMan game application built to practice my skills with React and Typescript
+# HangMan game application built to practice my skills with React and Typescript
